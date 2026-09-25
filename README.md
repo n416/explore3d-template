@@ -36,7 +36,17 @@
 |---|---|
 | ![ロボット](docs/showcase/baba-robot.jpg) | ![崩壊](docs/showcase/baba-collapse.jpg) |
 
+さらに「サーベルを全身で振って」「横薙ぎは両手で」「動きに余韻を」「コンボが構えに戻らずつながるように」
+「落下が軽すぎる、Ctrl で急降下」「ブースト中は集中線を」と注文を重ねていった結果がこちら（動きはすべて等速、両手持ちのみ 1/3 スロー）。
+
+| ビームサーベルの連続技 | 両手持ちの横薙ぎと唐竹割り |
+|---|---|
+| ![連続技](https://raw.githubusercontent.com/n416/baba-no-sora/main/docs/media/saber-combo.gif) | ![両手持ち](https://raw.githubusercontent.com/n416/baba-no-sora/main/docs/media/saber-twohand.gif) |
+| **ブースト中はロボット中心の集中線** | **重い自由落下、着地前の減速噴射、上昇中からの急降下** |
+| ![集中線](https://raw.githubusercontent.com/n416/baba-no-sora/main/docs/media/boost-lines.gif) | ![落下と急降下](https://raw.githubusercontent.com/n416/baba-no-sora/main/docs/media/fall-dive.gif) |
+
 - 🤖 全高 20 m のロボットで歩く・ダッシュする・バーニアで飛ぶ・屋上に降りる。左クリックでビーム
+- ⚔ 怪獣に近づくと背中からビームサーベル。4 つの技がつながる連続技、両手持ち、踏み込み、ヒットストップ
 - 🏚 1,200 棟以上の建物が壊せる。土煙を上げて沈み、瓦礫の山が残る
 - 🦖 6 棟壊すと架空の怪獣が地面から現れ、ビルを踏み潰しながら迫ってくる。体力ゲージを削り切ると街が元通りに
 - 🥽 VR でも同じように遊べる（怪獣の頭上にゲージ、照準は顔の向き）
